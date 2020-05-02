@@ -1,0 +1,707 @@
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    display: block;
+}
+.headbgblue{
+
+box-sizing: border-box;
+margin: 0px;
+padding: 0px;}
+.headbgmai{
+    display: block;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    width: 100%;
+    padding: 8px 15px 8px 15px;
+    background-color: #316dc3;
+    box-sizing: border-box;
+}
+.bgbrow{
+    margin: 0px -15px 0px- 15px;
+    
+
+}
+.bgbtexli1{color: #f8f9fa;
+    font-size: 16px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding: 0px 15px;
+    box-sizing: border-box;
+    font-weight: 400;
+    position: relative;
+    text-align: center;
+    
+
+}
+.bgbtexli2{
+   color: #f8f9fa;
+   font-size: 16px;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+   padding: 0px 15px;
+   text-align: center;
+   font-weight: 400;
+    position: relative;
+    font-weight: 400;
+}
+.rightinline{
+    font-family: sans-serif helvetica;
+    display: inline-block;
+    background-color: white;
+    padding-right: 10px;
+    padding-left: 5px;
+    border: none;
+    margin: 5px 5px 5px 5px;
+    cursor: pointer;
+    height: max-content;
+}
+
+.bgbrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.headlimai{
+    background-color: #f8f9fa;
+    font-size: 14px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:  #333333;
+    line-height: 24px;
+    text-align: left;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px; 
+    margin-right: auto;
+    margin-left: auto;
+}
+.headlimai1{
+    margin:0px 69px ;
+    padding:0pc 16px ;
+    color :#333333;
+}
+.active{
+    background-color: #316dc3;
+    color: white;
+    border-radius: 25px;
+}
+
+.navbar-nav {
+    
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+.nav-item{
+    font-size: 14px;
+    padding: 5px 5px 5px 5px;
+    color: #555555;
+    font-weight: 700;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 2px 4px 2px 4px;
+}   
+    
+.nav-item:hover{
+    background-color:#316dc3 ;
+    color:white ;
+    border-radius: 25px;
+
+}
+    
+}
+.navbar-nav {
+    text-align: center;
+    font-weight: 700;
+    padding: 0px 8px 0px 8px;
+}
+.DIVMAR{
+    border: none;
+    margin: 0;
+    padding: 10px 30px 0px 30px;
+}    
+.marquee {
+    background-color: royalblue;    
+}
+.introcont{margin-left:86px ;
+    margin-right:86px ;
+    padding:60px 25px 60px 25px ;
+    font-size:14px ;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: #666666;
+
+}
+.MAIN1{
+    
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: #f8f9fa;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main2{
+
+margin-left: -15px;
+margin-right: -15px;
+font-size: 14px;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+color: #666666;
+display: block;
+text-align: center;
+}
+.main3{
+    color: #666666;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding: 0px 15px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 23px;
+}
+.main3 h2{
+    display: block;
+    margin-block-start: 0px;
+    margin-block-end: 10px;
+    line-height: 23px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+   color: #316dc3;
+   font-size: 32px;
+   margin: 0px 0px 10px;
+}
+
+.duction{font-weight: 700;
+color:#28a745;
+font-size: 32;
+text-align: center;}
+.introtex{
+    margin-top: 15px;
+    text-align: left;
+    color: #666666;
+    font-size: 14px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+.introtex p{
+    text-align: justify;
+    visibility: visible;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.maindastar{
+    padding: 0px 15px;
+    background: #316dc3;
+    font-size: 16px ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right:auto ;
+    margin-left: auto;
+}
+.dastarbor{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+
+
+}
+.dastarrow,.familyrow,.medicalrow,.edurow{
+    color: #f8f9fa;
+    margin: 0px -15px;
+    padding: 48px 0px;
+    display: inline-flex;
+    
+    
+
+}
+.dastarmon{
+    color:#f8f9fa ;
+    padding: 16px 15px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dstrah2{
+    font-weight: 500;
+    font :43.2PX;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+
+
+}
+.dastrah5{font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin: 10px 0px;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+
+}
+.dastargreen{font-size: 18px;
+    color: #00ff00;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.famimon,.medimon,.edumon{
+   
+    color:#f8f9fa ;
+    padding: 16px 15px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.wwad{
+    background-color:whitesmoke
+    /* background: #000; */
+}
+section .wwad{
+    position: relative;
+    display: block;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: center;
+
+}
+.wwadmai{
+    color: #316DC3;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:30px 40px;
+    margin: 40px 50px;
+    text-align: center;
+
+}
+.wwadtextfi{
+    display: block;
+}
+
+
+.wwadh2{
+    color: #316DC3;
+    font-size: 2rem;
+    margin-bottom: 10px;
+    display: block;
+    text-align: center;
+    line-height: 1;
+    margin-block-start: 0.83rem;
+    margin-block-end: 0.83rem;
+    margin-inline-start: 0px;
+    margin-inline-end:0px ;
+    font-weight: 700;
+}
+.wwadspan{
+    color:#427900;
+    font-weight: 600;
+}
+.wwarow{
+    margin-left: -15px;
+    margin-right: -15px;
+    text-align: center;
+    
+}
+.wwarow1{
+    
+
+    position: relative;
+    min-height: 1px; 
+    padding: 0px 15px; 
+    display: inline-block;
+    text-align: center;
+
+}
+div.wwarow1{
+    display: none;
+
+
+}
+.wwaros{justify-content: center; 
+    display: inline-block;
+}
+.wwaros{
+    background: #ffffff;
+    text-align: center;
+    font-size: 14px;
+    font-family: sans-serif;
+    margin: 30px 30px 30px 30px;
+    padding: 30px;
+    color: #666666; 
+    width: 293.3px;
+    height: 185px;
+    box-shadow: 0px 8px 20px 0px 
+    
+    
+}
+.wwadh4{
+   margin-top: 20px;
+   font-weight: 600;
+   font-size: 18px;
+   font-family: serif;
+   color: #316dc3;
+   line-height: 1.4;
+   margin-bottom: 10px;
+   background-color: #ffffff;
+}
+.secm{
+    position: relative;
+}
+.divm{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.contm{padding: 0px 15px 15px 20px;
+
+}
+.rowm{
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.rowm1{
+    padding-top: 0px;
+    padding-bottom:20px ;
+    padding-left:15px ;
+    padding-right:15px ;
+    font-size: 25px;
+    font-weight: bold ;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+}
+.rowmh3{
+    color: #316dc3;
+    font: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 0px 30px;
+    padding: 0px 0px 10px 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+    line-height: 34.287px;
+    
+}
+.rowhepmai{
+    margin-left: -15px;
+    margin-right: -15px;
+    width: 800px;
+    
+}
+.hep1{
+    padding-left: 15px;
+    padding-right: 15px;
+
+        
+
+}
+.hep2ic{padding: 15px 15px 15px 15px;
+    margin-bottom: 20px;
+    text-align: left;
+    border: 1px solid #eeeeee;
+    background: #f7f8fa;
+    width:280px;
+    display: inline-block;
+    margin-left: 20px;
+    
+}
+.hep2ic a{
+    margin-right: 30px;
+    padding: 0px;
+    float: left;
+    display: table-cell;
+    cursor: pointer;
+
+}
+.heptext{clear: both;
+    color: #666666;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: table-cell;
+    
+}
+
+.heptext h4{text-transform: uppercase; 
+    font-size:15px ;
+font-family:Arial, Helvetica, sans-serif ;
+color: #316dc3;
+margin: 10px 0px;
+text-shadow: 1px;
+}
+.upemain{
+    color: #666666;
+    font: 24px ;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 15px;
+    text-align: left;
+
+    
+}
+.upeh3{
+    margin:0px 0px 0px 30px ;
+    position: relative;
+    padding: 0px 0px 0px 10px;
+    color: #316dc3;
+    font: 24px;
+    text-transform: uppercase;
+
+}
+.upep{
+    margin-bottom: 10px;
+    display: block;
+    box-sizing: border-box;
+    font-size: 10px;
+    margin-block-end: 10px;
+    margin-block-start: 0px;
+    margin-inline-start: 0px;
+    margin-inline-start: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top:0px ;
+    color: #666666;
+    
+    
+
+}
+
+.rowm{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.gallerystr{
+    padding-top: 60px;
+    padding-bottom: 40px;
+    margin-bottom: 20px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+
+}
+.galtab{
+    display: table;
+    height: 100%;
+    position: relative;
+    z-index: -1;
+    width: 100%;
+}
+.galtabcel{
+    box-sizing: border-box;
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+
+}
+.divimgmain{
+    box-sizing: border-box;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    margin-left: 22px;
+    margin-right: 22px;
+    padding: 0px 15px 0px 15px;
+    color: #666666;
+}
+.galheadmai{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+    text-align:center;
+
+
+
+}
+.galhedrow{font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -15px;
+    margin-right: -15px;
+    text-align: center;
+}
+.galhedrow1{
+    min-height: 1px;
+    padding-left:15px;
+    padding-right: 15px;
+    position: relative;
+    text-align: center;
+}
+.galhedrow1 h2{
+    text-transform: uppercase;
+    text-align: center;
+    color: #316dc3;
+    font-size: 27px;
+    margin: 0px 0px 0px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.divsec{
+    box-sizing: border-box;
+    font-size: 14px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #666666;
+    display: block;
+}
+.galpicrow{
+    margin-left: -15px;
+    margin-right: -15px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 40px;
+
+}
+.galpic1{
+
+    padding-left: 7px;
+    padding-right: 7px;
+    position: relative;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    display: inline-block;
+
+
+}
+.galpic2{
+    text-align: center;
+    font-size: 14px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding-left: 20px;
+}
+.galpic2img{
+
+    padding: 4px 4px 4px 4px;
+    border-radius: 4px;
+    width: 224px;
+    height: 140px;
+    transition-duration: 0.3s;
+    transition-delay:0s ;
+    border: 1px solid #eeeeee;
+    background: #f7f8fa;
+    cursor: pointer;
+
+}
+
+.botsivmai{
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    background-color: #343a40;
+    
+}
+.botsiv1{
+    margin: 0px 22px;
+    padding: 48px 15px;
+    font-size: 14px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #f8f9fa;
+    font-weight: 400;
+    line-height: 21px;
+}
+.bottexmai{
+    margin: 0px -15px;
+    padding: 48px 0px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #f8f9fa;
+    text-align: left;
+}
+.bottexho1{
+    margin-top:3rem ;
+    padding: 0px 15px;
+    color: #bbbbbb;
+    text-align: left;
+    width: 360px;
+    height: 192px;
+
+}
+.bottexhoul{font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 24px 0px 0px;
+    color: #bbbbbb;
+    margin-top: 1.5rem;
+    padding:0px 0px 0px  0px;
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+    text-align: left;
+
+}
+.usefumai{
+    font-size:14px ;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding: 0px 15px;
+    color: #f8f9fa;
+    font-weight: 400;
+    text-align: left;
+    width: 330px;
+    height: 240px;
+    margin-bottom: 10px;
+}
+.usefumai h5{
+    font-size: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin: 0px 0px 8px;
+    color: #f8f9fa;
+
+}
+.contactmai{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size:14px;
+    color: #f8f9fa;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 360px;
+    height: 71px;
+}
+.contactmai h5{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size:14px;
+    color: #f8f9fa;
+    margin: 0px 0px 8px;
+    
+
+}
+   
+.bottexmai{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.contactmai ul li i{
+    border: 1px solid none;
+}
+.footermai{
+    box-sizing: border-box;
+    padding: 0px 15px 20px 25px;
+    font-size: 14px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background: #316dc3;
+    color: #f8f9fa;
+    
+    width: 100%;
+}
+.footermai1{
+    padding:16px 15px 0px 15px;
+    margin: 0px 41px 0px 41px;
+    text-align: left;
+    
+}
+.foottex{
+    margin-left: -15px;
+    margin-right: -15px;
+    
+
+}
